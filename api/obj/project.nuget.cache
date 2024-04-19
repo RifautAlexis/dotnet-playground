@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oH0NFbfolozRU0OZ/jLR4kbxZH08Pg3aqI5F8JNsnh/xMww3nm8S3e4+8DB/20UtofUPdvkIKQzXDkyxpPvotw==",
+  "dgSpecHash": "AHkxjf6w/Fz9sv4473XE56Z0Zx/F36P05XnRFfKlqEuB+G/ChFu4+rUtS+Rfz5gHVP3oM9QhfKOF38ek00SOlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexis\\Documents\\MyWorks\\dotnet-playground\\api\\api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
