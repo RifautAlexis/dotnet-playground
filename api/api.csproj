@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Features\Authentication\Requests\Register\" />
     <Folder Include="Features\Users\DTOs\" />
     <Folder Include="Features\Users\Eceptions\" />
     <Folder Include="ExceptionHandler\" />

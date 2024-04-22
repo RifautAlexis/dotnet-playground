@@ -1,5 +1,4 @@
-﻿using api.Features.Users.Repository;
-using api.ServiceManager;
+﻿using api.ServiceManager;
 using AutoMapper;
 using MediatR;
 
