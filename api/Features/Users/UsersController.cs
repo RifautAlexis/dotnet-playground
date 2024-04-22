@@ -1,7 +1,6 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+using api.Features.Users.Requests.GetAllUsers;
 
 namespace api.Features.Users
 {
@@ -16,10 +15,10 @@ namespace api.Features.Users
             _mediator = mediator;
         }
 
-        [HttpGet(Name = "GetGamesForConsole")]
-        public async Task<ActionResult<IEnumerable<User>>> GetUsers()
+        [HttpGet(Name = "GetAllUsers")]
+        public async Task<ActionResult<IEnumerable<GetAllUsersResult>>> GetUsers()
         {
-            var query = new GetUsersQuery
+            var query = new GetAllUsersQuery
             {
             };
 
