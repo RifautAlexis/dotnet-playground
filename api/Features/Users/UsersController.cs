@@ -15,7 +15,7 @@ namespace api.Features.Users
             _mediator = mediator;
         }
 
-        [HttpGet(Name = "GetAllUsers")]
+        [HttpGet]
         public async Task<ActionResult<IEnumerable<GetAllUsersResult>>> GetUsers()
         {
             var query = new GetAllUsersQuery

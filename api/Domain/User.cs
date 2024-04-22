@@ -14,13 +14,14 @@ namespace api.Domain
         public required string Email { get; set; }
         public required string Password { get; set; }
         public int? Age { get; set; }
-        public Position Position { get; set; } = Position.Developer;
+        public Position Position { get; set; } = Position.Newcomer;
     }
 
     public enum Position
     {
         Hr,
         Manager,
-        Developer
+        Developer,
+        Newcomer,
     }
 }

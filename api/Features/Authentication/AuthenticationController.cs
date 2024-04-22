@@ -1,4 +1,5 @@
-﻿using api.Features.Authentication.Requests.SignIn;
+﻿using api.Features.Authentication.Requests.Register;
+using api.Features.Authentication.Requests.SignIn;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,7 +16,7 @@ namespace api.Features.Authentication
             _mediator = mediator;
         }
 
-        [HttpPost(Name = "SignIn")]
+        [HttpPost("SignIn")]
         public async Task<ActionResult<Requests.SignIn.SignInResult>> SignIn(SignInCommand command)
         {
             var result = await _mediator.Send(command);
@@ -23,16 +24,12 @@ namespace api.Features.Authentication
             return Ok(result);
         }
 
-        //[HttpGet(Name = "Register")]
-        //public async Task<ActionResult<string>> Register()
-        //{
-        //    var query = new RegisterQuery
-        //    {
-        //    };
+        [HttpPost("Register")]
+        public async Task<ActionResult<RegisterResult>> SignIn(RegisterCommand command)
+        {
+            var result = await _mediator.Send(command);
 
-        //    var result = await _mediator.Send(query);
-
-        //    return Ok(result);
-        //}
+            return Ok(result);
+        }
     }
 }

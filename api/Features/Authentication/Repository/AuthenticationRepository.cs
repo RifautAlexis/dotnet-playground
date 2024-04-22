@@ -11,5 +11,14 @@ namespace api.Features.Authentication.Repository
         {
             return await _context.Users.FirstOrDefaultAsync(x => x.Email == email && x.Password == password);
         }
+        public async Task<User?> GetUser(string email)
+        {
+            return await _context.Users.FirstOrDefaultAsync(x => x.Email == email);
+        }
+
+        public async Task AddUser(User newUser)
+        {
+            await _context.Users.AddAsync(newUser);
+        }
     }
 }
