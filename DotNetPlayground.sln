@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{AF7082B9-0751-43FD-BC58-10C21C68FDFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service01HTTP", "service01HTTP\service01HTTP.csproj", "{43461B22-5319-4EB3-BA52-D029BE611864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service02GRPC", "Service02GRPC\Service02GRPC.csproj", "{D3CC03CC-7740-4904-A8EE-809DF1DECC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7082B9-0751-43FD-BC58-10C21C68FDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7082B9-0751-43FD-BC58-10C21C68FDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7082B9-0751-43FD-BC58-10C21C68FDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7082B9-0751-43FD-BC58-10C21C68FDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43461B22-5319-4EB3-BA52-D029BE611864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43461B22-5319-4EB3-BA52-D029BE611864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43461B22-5319-4EB3-BA52-D029BE611864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43461B22-5319-4EB3-BA52-D029BE611864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CC03CC-7740-4904-A8EE-809DF1DECC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CC03CC-7740-4904-A8EE-809DF1DECC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CC03CC-7740-4904-A8EE-809DF1DECC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CC03CC-7740-4904-A8EE-809DF1DECC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
