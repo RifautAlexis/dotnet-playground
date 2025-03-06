@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oBdQaxsn7g=",
+  "dgSpecHash": "1t+wqcC8fss=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\service01HTTP\\service01HTTP.csproj",
+  "projectFilePath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\Service01HTTP\\Service01HTTP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

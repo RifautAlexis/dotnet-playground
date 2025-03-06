@@ -30,3 +30,4 @@ C:\Users\Alexis\Documents\MyWorks\DotNetPlayground\ApiGateway\obj\Debug\net9.0\r
 C:\Users\Alexis\Documents\MyWorks\DotNetPlayground\ApiGateway\obj\Debug\net9.0\ApiGateway.pdb
 C:\Users\Alexis\Documents\MyWorks\DotNetPlayground\ApiGateway\obj\Debug\net9.0\ApiGateway.genruntimeconfig.cache
 C:\Users\Alexis\Documents\MyWorks\DotNetPlayground\ApiGateway\obj\Debug\net9.0\ref\ApiGateway.dll
+C:\Users\Alexis\Documents\MyWorks\DotNetPlayground\ApiGateway\obj\Debug\net9.0\ApiGateway.sourcelink.json

@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "service01HTTP/1.0.0": {
+      "Service01HTTP/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.2"
         },
         "runtime": {
-          "service01HTTP.dll": {}
+          "Service01HTTP.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/9.0.2": {
@@ -36,7 +36,7 @@
     }
   },
   "libraries": {
-    "service01HTTP/1.0.0": {
+    "Service01HTTP/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

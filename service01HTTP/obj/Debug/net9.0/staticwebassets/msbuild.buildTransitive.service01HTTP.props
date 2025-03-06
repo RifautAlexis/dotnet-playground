@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\service01HTTP.props" />
+  <Import Project="..\buildMultiTargeting\Service01HTTP.props" />
 </Project>

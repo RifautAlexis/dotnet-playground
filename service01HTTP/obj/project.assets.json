@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\service01HTTP\\service01HTTP.csproj",
-      "projectName": "service01HTTP",
-      "projectPath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\service01HTTP\\service01HTTP.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\Service01HTTP\\Service01HTTP.csproj",
+      "projectName": "Service01HTTP",
+      "projectPath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\Service01HTTP\\Service01HTTP.csproj",
       "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\service01HTTP\\obj\\",
+      "outputPath": "C:\\Users\\Alexis\\Documents\\MyWorks\\DotNetPlayground\\Service01HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",

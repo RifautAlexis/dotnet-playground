@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "SyWh1h77qh9nKyzhx7HwlaBbnncyRAtb0/gCqNSvOxw=",
-  "Source": "service01HTTP",
-  "BasePath": "_content/service01HTTP",
+  "Hash": "70AZF5QVz2QtiqIYMF2nXCPOoaOQcJUNIgVpy+qpmJI=",
+  "Source": "Service01HTTP",
+  "BasePath": "_content/Service01HTTP",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
