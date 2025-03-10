@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service03HTTP", "Service03H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service01HTTP", "Service01HTTP\Service01HTTP.csproj", "{5F8AA29C-9D7D-4714-8765-165BB8FD93F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditLog", "AuditLog\AuditLog.csproj", "{BA9D2464-65BC-4296-A865-0B130BF434B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{5F8AA29C-9D7D-4714-8765-165BB8FD93F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8AA29C-9D7D-4714-8765-165BB8FD93F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8AA29C-9D7D-4714-8765-165BB8FD93F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9D2464-65BC-4296-A865-0B130BF434B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9D2464-65BC-4296-A865-0B130BF434B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9D2464-65BC-4296-A865-0B130BF434B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9D2464-65BC-4296-A865-0B130BF434B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
