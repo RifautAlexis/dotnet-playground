@@ -35,6 +35,6 @@ public class AuditLoggingMiddleware
         
         Console.WriteLine(logEntry);
 
-        await _httpClient.PostAsJsonAsync("http://localhost:8004/log", logEntry);
+        await _httpClient.PostAsJsonAsync("http://localhost:8004/audit", logEntry);
     }
 }

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Tjw3epX+2b1O2//qA4DUC2QfuFhWCs7hm0yBtCf7BkA=",
+  "Source": "AuditLogger",
+  "BasePath": "_content/AuditLogger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
